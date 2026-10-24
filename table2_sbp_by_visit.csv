@@ -1,0 +1,7 @@
+arm,visit,n,mean_sbp,mean_change
+"Drug A",Baseline,30,151.5,0.0
+Placebo,Baseline,30,150.6,0.0
+"Drug A","Week 4",30,142.9,-8.5
+Placebo,"Week 4",30,148.2,-2.4
+"Drug A","Week 8",30,134.5,-16.9
+Placebo,"Week 8",30,146.4,-4.2
